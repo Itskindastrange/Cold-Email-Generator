@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+pandas
+langchain
+langchain_groq
+langchain_community
+langchain_core
+chromadb
+sentence-transformers
+requests
